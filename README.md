@@ -11,7 +11,7 @@ Eu me chamo Cenoura, sou apaixonado por tecnologia, amo programação, internet,
 
 🐧- Uso Linux
 
-👾- Valorant  <img align="right" src="https://cdn.discordapp.com/attachments/1425526292064895037/1474667685827706994/ezgif.com-animated-gif-maker.gif?ex=699aaece&is=69995d4e&hm=16e404e3b7c035efe49d92d11cc24277296aed988fadde7bb6e371ad917d8eb1" width="250"/>
+👾- Valorant  <img align="right" src="https://cdn.discordapp.com/attachments/1425526292064895037/1474667685827706994/ezgif.com-animated-gif-maker.gif?ex=699aaece&is=69995d4e&hm=16e404e3b7c035efe49d92d11cc24277296aed988fadde7bb6e371ad917d8eb1" width="150"/>
 
 🌎- Minecraft      
 
