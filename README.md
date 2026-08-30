@@ -1,7 +1,7 @@
 ## 👋 Oiii!!
 **`Software Enginner Full-stack`**
 
-Eu me chamo Cenoura, sou apaixonado por tecnologia, amo programação, internet, hardware e robótica.
+Eu sou o Cenoura, eu amo tecnologia, programação, vôlei, música, internet, hardware e robótica.
 
 ## 🥕 Sobre mim
 
@@ -11,30 +11,44 @@ Eu me chamo Cenoura, sou apaixonado por tecnologia, amo programação, internet,
 
 🐧- Uso Linux
 
-👾- Valorant 
+🎸 - Toco guitarra e violão
+
+🔫- Valorant 
 
 🌎- Minecraft      
 
-🤖- Roblox        
+🤖- Roblox
+
+👾- Rhythia
+
+🔪- Among us
+
+📗- Baldi's Basics
 
 😺- Amo gatos
+
+💸- Investimentos
+
+📖- Estudos
+
+🎵 - Amo Nirvana
 
 🏐- Vôlei                               
 
 ♟️- Xadrez
-## 🌐 Onde me encontrar?
+## 🌐 Quer falar comigo?
 
-Discord: thunderzzz_759
+Discord: ycenourinha_
 
 </p>
 
 ---
 
-## 🤖 Linguagens e Tecnologias
+## 🤖 Linguagens
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white )
 
 ## 📚 O que estou aprendendo
 
-Atualmente estou focado em aprimorar minha lógica de programação e evoluir em Java, entendendo conceitos fundamentais e aplicando na prática por meio de projetos e estudos contínuos.
+Atualmente estou focado em aprimorar minha lógica de programação, minha visão de jogo e precisão no vôlei e também aprimorar meus estudos e formas de ganhar dinheiro, para assim, ter um bom futuro.
 
